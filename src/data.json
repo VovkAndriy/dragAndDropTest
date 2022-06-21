@@ -1,0 +1,160 @@
+{
+  "results": [
+    {
+      "id": 10,
+      "categoryName": "Laptops and PC",
+      "products": [
+        {
+          "productName": "Selling_price_test",
+          "price": "100",
+          "amount": "2"
+        },
+        {
+          "productName": "NAme",
+          "price": "12",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "categoryName": "Kate Cat",
+      "products": [
+        {
+          "productName": "NAme",
+          "price": "12",
+          "amount": "12"
+        },
+        {
+          "productName": "I have",
+          "price": "100",
+          "amount": "2"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "categoryName": "Test2",
+      "products": [
+        {
+          "productName": "Test",
+          "price": "12",
+          "amount": "90"
+        },
+        {
+          "productName": "NAme",
+          "price": "12",
+          "amount": "1"
+        },
+        {
+          "productName": "Phoenix",
+          "price": "10",
+          "amount": "9993"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "categoryName": "Phone",
+      "products": [
+        {
+          "productName": "Wef",
+          "price": "5",
+          "amount": "15"
+        },
+        {
+          "productName": "IPhone",
+          "price": "1000",
+          "amount": "18"
+        },
+        {
+          "productName": "IPhone",
+          "price": "1000",
+          "amount": "18"
+        },
+        {
+          "productName": "IPhone 1",
+          "price": "990",
+          "amount": "4"
+        },
+        {
+          "productName": "Phone",
+          "price": "100",
+          "amount": "2"
+        },
+        {
+          "productName": "Phoenix",
+          "price": "100",
+          "amount": "8"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "categoryName": "Smart",
+      "products": [
+        {
+          "productName": "Smart",
+          "price": "110",
+          "amount": "8"
+        },
+        {
+          "productName": "Name",
+          "price": "123",
+          "amount": "12"
+        },
+        {
+          "productName": "Gg",
+          "price": "10",
+          "amount": "2"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "categoryName": "Basketball",
+      "products": [
+        {
+          "productName": "Ihor Mikhno",
+          "price": "10",
+          "amount": "5"
+        },
+        {
+          "productName": "Ihor TT",
+          "price": "1000"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "categoryName": "Unknown",
+      "products": [
+        {
+          "productName": "ttt",
+          "price": "12",
+          "amount": "12"
+        },
+        {
+          "productName": "September",
+          "price": "15",
+          "amount": "10"
+        },
+        {
+          "productName": "Unknown prouct",
+          "price": "2",
+          "amount": "2"
+        },
+        {
+          "productName": "WithoutCategory",
+          "price": "1",
+          "amount": "2"
+        },
+        {
+          "productName": "Phone",
+          "price": "",
+          "amount": "10"
+        }
+      ]
+    }
+  ]
+}
